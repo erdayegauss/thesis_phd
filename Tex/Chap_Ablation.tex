@@ -1,0 +1,219 @@
+
+
+\chapter{使用简介}
+\label{chap:guide}
+
+\section{预脉冲与预等离子体}
+\begin{figure}[!htbp]
+  \centering
+  \includegraphics[width=\MyFactor\textwidth]{Img/prepulse2012.eps}
+  \caption{激光脉冲示意图}
+  \label{fig:prepulse2012}
+\end{figure}
+
+实际上，在实验中激光脉冲并不是只有一个主脉冲，其时间结构如图\ref{fig:prepulse2012}所
+示。在峰值强度之前的激光可以统称为预脉冲，从前到后依次是:1、Replica:
+位于主脉冲前7ns到十几ns的位置，是相干的短脉冲，也可称为fs预脉冲。2、ASE
+(自发放大辐射)：位于主脉冲之前几个ns的位置，时间宽度为ns量级。ASE是
+非相干的光。3、Pedestal:位于主脉冲前100ps内。从产生原因来看：fs预脉冲
+是再生放大器在选单或倒空的过程中，由于高压电脉冲的上升沿不够陡峭，或者
+普克尔盒对高压电脉冲的响应不够快，响应时间太长，造成普克尔盒消光比不够
+高，在主脉冲的前后有几个间隔为7ns左右(由再生腔长决定)的激光脉冲从再
+生腔中输出并在后面的主放大器中得到进一步的放大，并在经过压缩器压缩后成为
+脉宽与主激光基本相同的fs脉冲。ASE(自发放大辐射)主要来源于预放大器和主
+放大器晶体内的自发辐射。由于钛宝石晶体的增益较高，增益介质中产生的自发辐
+射会在放大链中也得到放大，从而形成放大的自发辐射。它位于主脉冲前几个ns的
+位置，持续时间为ns量级。最后由于振荡器内的杂散光或者漏光，以及压缩光栅对
+光脉冲的不完全压缩，会在主脉冲前100ps内形成一个平台区Pedestal。
+
+
+在激光脉冲作用的过程中，其物理图像如此：在主脉冲之前，ASE和预脉冲已经把
+靶材前表面加热电离，形成等离子。前表面的等离子体向真空膨胀，在靶前形成
+预等离子体。与此同时，激光在靶面产生Mbar量级的压强，形成冲击波向靶内传
+输。如果靶材较薄，在主脉冲到来前冲击波传播到靶的后表面，将后表面破坏造
+成其向真空膨胀，靶后与真空不再有锐利的分界面，形成密度标长较长的区域，
+降低加速效率，但是厚靶又不利于TNSA鞘层加速。因此靶材厚度存在一个最佳值，
+既能获得较高的鞘层加速效率，又将冲击波的影响降到最低。显然，这个最佳值
+将随冲击波的强度变化。在实验中预脉冲和ASE同时存在，两者均能在靶前产生预等离子体，并
+在靶内形成冲击波，从而改变靶的密度分布。
+
+
+我们对ASE和fs预脉冲产生的作用进行理论分析。
+首先是靶材的前表面被离化后，等离子体向真空自由膨胀的过程。根据Mora
+等人的工作\cite{mora2003plasma,mora2005thin}，假设等离子体的自由膨胀是等温过程后，通过解析计算得
+到等离子体的波前速度公式为:
+\begin{equation}
+\label{eqn:waveFrontVelocity}
+v_{max}=2 c_s ln(\tau + \sqrt{{\tau}^2+1})
+\end{equation}     
+其中$c_s=(Z k_B T_e / m_i)^{1/2}$为离子声速度，$T_e=m_e c^2 \sqrt{1+\frac{I {\lambda}^2}{{1.37} \times {10}^{18} W/cm^2 \cdot \mu m^2}}$ 是电子能量\cite{kruer1985j}，$\tau={\omega}_{pi} t_{acc}/(2e)^{1/2}$为归一化加速时间， ${\omega}_{pi}=[(Z_i e^2 n_e)/(m_i {\epsilon}_0)]$，J. Fuchs \cite{fuchs2006laser} 通过对部分实验数据进行拟合得到离子加速的参考时间约为 $t_{acc} \approx 1.3 t_{laser}$。
+fs预脉冲只在飞秒的脉冲时间与等离子相互作用，ASE却在
+ns的时间内持续作用。因此ASE 对于前表面预等离子体的产生起到主导的作用。
+
+
+其次需要计算预脉冲和ASE所产生的冲击波对靶后表面的影响。由于ASE是从
+7ns逐渐增长至最大值(即所列数值)，且其强度比fs预脉冲低一个量级，对靶
+后的破坏远不如fs预脉冲，所以下面的主要讨论fs预脉冲的作用。由激光脉冲所
+引起的冲击波压强为\cite{lindl1995development}:
+\begin{equation}
+\label{eqn:shockPressure}
+P= \zeta I ^{2/3}
+\end{equation}     
+
+其中 P 是压强，以$P_a$为单位；I是激光光强，以$W/m^2$ 为单位；$\zeta$ 是材料常数，对于波长为0.8um的激光，Al靶和Cu靶可分别近似为 $J^{1/3} s^{2/3} m^{5/3} $和
+$0.75 J^{1/3} s^{2/3} m^{5/3} $
+\cite{swift2004shock}。对于受到冲击波作用的靶材，因为初始时处于静止状态，
+所以根据质量和动量守恒定律，冲击波波前的传播速度$v_s$ 和离子的速度$v_p$满足
+\begin{equation}
+\label{eqn:shockEquation1}
+\rho_0 v_s = \rho (v_s - v_p)
+\end{equation}     
+
+\begin{equation}
+\label{eqn:shockEquation2}
+P= \rho_0 v_s  v_p
+\end{equation}     
+
+\begin{equation}
+\label{eqn:shockEquation3}
+v_s = c_0 + \alpha v_p
+\end{equation}     
+
+其中 $\rho_0$ 和$\rho$分别是靶材初始密度和被压缩后的密度， $c_0$ 是声速，$\alpha$与材料有
+关的经验常数。Al靶$c_0=5.24 \mu m/ns$ ， $\alpha=1.40$，Cu靶$c_0=3.94 \mu m/ns$，$\alpha=1.49$\cite{lundh2007influence}。利用\ref{eqn:shockEquation1,eqn:shockEquation2,eqn:shockEquation3}求解$v_s$，$v_p$得
+
+\begin{equation}
+\label{eqn:shockV}
+v_s = \frac{c_0}{2} (\sqrt{1+x}+1)
+\end{equation} 
+
+\begin{equation}
+\label{eqn:pressureV}
+v_s = \frac{c_0}{2}(\sqrt{1+x}-1)
+\end{equation} 
+
+
+其中$x=(4 \alpha / {\rho}_0 {c_0}^2)P$ 。当冲击波到达靶后与真空的交界面后，冲击波压强变
+为零，被压缩的靶的后表面开始以$2v_p$ 速度向真空膨胀，同时形成松弛波
+(relaxation wave)以离子声速向靶内传播。当靶内压力下降到零之后，根据
+靶后的最终物质状态可以分为两种情况。第一种情况是冲击波压强小于$1.2Mbar$
+(相应的预脉冲强度为$5 \times {10}^{12}W/{cm}^2$ )，靶后物质低于气相点，靶与真空之间还
+有明显的分界面;第二种情况是当冲击波压强大于2Mbar(相应的预脉冲强度为
+${10}^{13}W/{cm}^2$ )，靶后被完全气化，形成大密度标长的等离子体，导致难以有效的
+建立鞘层场\cite{batani2010effects}。
+
+但是，如果ASE强度相当且远低于fs预脉冲，并且fs预脉
+冲在ASE达到最大值前的几个ns就与靶相互作用，fs预脉冲对靶后表面的破坏作用
+远大于ASE。
+
+
+
+
+
+
+
+
+
+\section{预等离子体的计算}
+对于激光预脉冲烧蚀金属靶产生预等离子体，其时间尺度在ps或者ns量级，空间尺寸在100$\mu m$量级。因此其过程可以作为局部稳态处理，同时
+流体力学工具MULTI
+MULTI基于流体力学的基本方程，采用lagrangian流体力学描述方法，使用流体元作为基本的计算单位。
+其计算流程如下：
+1 初始化过程，根据初始条件设定，以流体元为基本的单元，将质量m和 能量$E$，体积$V$，密度$\rho$，温度$T$，压强$P$等热力学变量及其导出变量，存贮到计算格中。而$\vec{p}$ $\vec{v}$ 存贮在计算格的顶点中，因此格子的大小是可以改变的，格子中的质量元是常量。
+
+能量的沉积是由于电子的
+
+2 拉格朗日流体力学过程
+在拉格朗日描述的基础上，通过流体力学基本方程及假设，以格点为单位，计算能量的吸收，由于状态方程得到温度压强等，更新速度，体积等。然后将拉格朗日坐标系转化为欧拉坐标系，但是变换后的变量在空间上不具有连续性，需要使用插值的方法对此进行修正。
+
+
+流体运动方程是由质量、动量、以及能量守恒方程组成的
+\begin{equation}
+\label{eqn:massCon}
+D_t \rho = - \rho \nabla \cdot \bf{v}
+\end{equation} 
+
+\begin{equation}
+\label{eqn:momentumCon}
+\rho D_t \bf{v} = - \nabla P - \bf{R}
+\end{equation} 
+
+\begin{equation}
+\label{eqn:energyCon}
+\rho D_t e = -P \nabla \cdot \bf{v} - \nabla \cdot \bf{q} -Q +S
+\end{equation} 
+
+其中， 密度$\rho$，速度$v$，压强$P$，辐射动量$R$，内能$e$，能量密度$Q$，能流$\bf{q}$，外部能量源$S$ 。
+
+
+对于非相对论激光脉冲，无法在临界密度以上等离子体中传播，其能量沉积发生在临界密度以下等离子体中。
+入射光$I_{+}(x,t)$和发射光$I_{-}(x,t)$满足;
+\begin{equation}
+\label{eqn:incidentLaser}
+\partial_x I_{+}= \kappa I_{+}
+\end{equation} 
+
+\begin{equation}
+\label{eqn:reflectLaser}
+\partial_x I_{-}= -\kappa I_{-}
+\end{equation} 
+其中$\kappa$是吸收耦合因子，
+\begin{equation}
+\label{eqn:Kappa}
+\kappa =C \frac{1}{T^{3/2}} \bigl( \frac{\rho}{\rho_c}  \bigr) \frac{1}{\sqrt{1-\rho/ \rho_c}}
+\end{equation} 
+$\rho_c=n_c m_i / Z_i$是离子临界密度，$n_c$是电子临界密度，$m_i$和$Z_i$分别是离子质量和电量。
+已知$I_-$和$I_+$，能量沉积项：
+\begin{equation}
+\label{eqn:energyDeposition}
+S=\partial_x I_+ \partial_x I_-
+\end{equation} 
+
+
+
+沉积在等离子体中的能量，主要通过电子传输，近稳态近似下，热流满足Spitzer公式：
+\begin{equation}
+\label{eqn:heatFlux}
+q=-\bar{K} T^{5/2} {\partial}_x T
+\end{equation} 
+$\bar{K}$ 满足
+\begin{equation}
+\label{eqn:kBar}
+\bar{K}=\frac{10.16 \epsilon \delta_t k^{7/2}}{\sqrt{m_e}e^4 Z_i log \Lambda}
+\end{equation} 
+且：
+\begin{equation}
+\label{eqn:heatFlux1}
+\epsilon \delta_t \approx 0.095 \frac{Z_i+0.24}{1+0.24Z_i}
+\end{equation} 
+
+$k$ 是玻尔兹曼常熟，$m_e$ 和 $e$ 电子的质量与电量，$Z_i$是有效的离子带电量，$\Lambda$
+是库仑对数。
+
+但是对于较大的温度梯度，公式不再成立，通常算法是热流中引入如下变量：
+\begin{equation}
+\label{eqn:freeStream}
+q_{fs}=-n_e k T (k T / m_e)^{1/2}
+\end{equation} 
+并通过差值的方法解决。
+
+
+
+
+
+
+应用领域
+
+
+
+\subsection{铝靶烧蚀}
+
+铝靶烧蚀，基于北大激光设备
+
+典型分布以及 数据扫描
+
+靶前表面
+
+\subsection{碳纳米管及铝靶}
+
+\subsection{结论}

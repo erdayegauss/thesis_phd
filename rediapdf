@@ -1,0 +1,5 @@
+#!/bin/bash
+latex Thesis.tex
+latex Thesis.tex
+bibtex Thesis.aux
+dvipdfm Thesis.dvi

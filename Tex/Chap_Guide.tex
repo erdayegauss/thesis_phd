@@ -1,4 +1,5 @@
 
+
 \chapter{使用简介}
 \label{chap:guide}
 
@@ -107,24 +108,24 @@ Biblio文件夹内放置参考文献的索引信息文件：Myrefs.bib，此文�
 \begin{verbatim}
 \begin{figure}[!htbp]
   \centering
-  \includegraphics[width=\MyFactor\textwidth]{ITC_Q_Criteria}
+  \includegraphics[width=\MyFactor\textwidth]{Img/ITC_Q_Criteria.eps}
   \caption{Q判据等值面图}
   \label{fig:ITC_Q_Criteria}
 \end{figure}
 \end{verbatim}
 \begin{figure}[!htbp]
   \centering
-  \includegraphics[width=\MyFactor\textwidth]{ITC_Q_Criteria}
+  \includegraphics[width=\MyFactor\textwidth]{Img/ITC_Q_Criteria.eps}
   \caption{Q判据等值面图}
   \label{fig:ITC_Q_Criteria}
 \end{figure}
 
-如果插图的上下空白区域过大，希望减少插入图片后的留白，以图片“Y”为例（图\ref{fig:Y}），可以使用如下代码模板：
+如果插图的上下空白区域过大，希望减少插入图片后的留白，以图片“Y”为例（图\ref{Img/fig:Y.eps}），可以使用如下代码模板：
 \begin{verbatim}
 \begin{figure}[!htbp]
   \centering
   %trim option's parameter order: left bottom right top
-  \includegraphics[trim = 0mm 25mm 0mm 30mm, clip, width=\MyFactor\textwidth]{Y}
+  \includegraphics[trim = 0mm 25mm 0mm 30mm, clip, width=\MyFactor\textwidth]{Img/Y.eps}
   \caption{Tandem cylinder clip view}
   \label{fig:Y}
 \end{figure}
@@ -132,7 +133,7 @@ Biblio文件夹内放置参考文献的索引信息文件：Myrefs.bib，此文�
 \begin{figure}[!htbp]
   \centering
   %trim option's parameter order: left bottom right top
-  \includegraphics[trim = 0mm 25mm 0mm 30mm, clip, width=\MyFactor\textwidth]{Y}
+  \includegraphics[trim = 0mm 25mm 0mm 30mm, clip, width=\MyFactor\textwidth]{Img/Y.eps}
   \caption{Tandem cylinder clip view}
   \label{fig:Y}
 \end{figure}
@@ -170,24 +171,24 @@ Biblio文件夹内放置参考文献的索引信息文件：Myrefs.bib，此文�
 \begin{figure}[!htbp]
   \centering
   \begin{subfigure}[b]{\MySubFactor\textwidth}
-    \includegraphics[width=\textwidth]{HC_OASPL_A}
+    \includegraphics[width=\textwidth]{Img/HC_OASPL_A.eps}
     \caption{}
     \label{fig:HC_OASPL_A}
   \end{subfigure}%
   ~%add desired spacing
   \begin{subfigure}[b]{\MySubFactor\textwidth}
-    \includegraphics[width=\textwidth]{HC_OASPL_B}
+    \includegraphics[width=\textwidth]{Img/HC_OASPL_B.eps}
     \caption{}
     \label{fig:HC_OASPL_B}
   \end{subfigure}
   \begin{subfigure}[b]{\MySubFactor\textwidth}
-    \includegraphics[width=\textwidth]{HC_OASPL_C}
+    \includegraphics[width=\textwidth]{Img/HC_OASPL_C.eps}
     \caption{}
     \label{fig:HC_OASPL_C}
   \end{subfigure}%
   ~%add desired spacing
   \begin{subfigure}[b]{\MySubFactor\textwidth}
-    \includegraphics[width=\textwidth]{HC_OASPL_D}
+    \includegraphics[width=\textwidth]{Img/HC_OASPL_D.eps}
     \caption{}
     \label{fig:HC_OASPL_D}
   \end{subfigure}
