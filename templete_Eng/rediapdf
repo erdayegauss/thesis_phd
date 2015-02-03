@@ -1,0 +1,5 @@
+#!/bin/bash
+latex $1.tex
+bibtex $1.aux
+latex $1.tex
+dvipdfm $1.dvi
