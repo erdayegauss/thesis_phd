@@ -12,15 +12,15 @@
 %%
 %%%%*************************Document Class Declaration*******************************
 %%
-\documentclass{ucasthesis}% thesis template of the Uni of Chinese Academy of Sciences
+\documentclass{Style/ucasthesis}% thesis template of the Uni of Chinese Academy of Sciences
 %% Options:
 %% [draftinfo] % show draft version information
 %%%%% --------------------------------------------------------------------------------
 %%
 %%%%**************************Command Define and Settings*****************************
 %%
-\usepackage[ucas]{commons}% common settings
-\usepackage{custom}% user defined commands
+\usepackage[ucas]{Style/commons}% common settings
+\usepackage{Style/custom}% user defined commands
 %%%%% --------------------------------------------------------------------------------
 %%
 %%%%*********************************Content******************************************
@@ -36,11 +36,11 @@
 %%
 %% >>> Cover
 %%
-\input{Cover}
+\input{Tex/Cover}
 %%
 %% >>> Abstract
 %%
-\input{Abstract}
+\input{Tex/Abstract}
 %%
 %%% >>> List of Content
 %%
@@ -65,14 +65,14 @@
 %%
 %%% >>> Main Contents
 %%
-\input{Main_Content}%
+\input{Tex/Main_Content}%
 %%%%% --------------------------------------------------------------------------------
 %%
 %%%%*********************************Appendix*****************************************
 %%
 %% Some subordinate chapters.
 \appendix%
-\input{Appendix}%
+\input{Tex/Appendix}%
 %%%%% --------------------------------------------------------------------------------
 %%
 %%%%********************************Backmatter****************************************
@@ -82,20 +82,20 @@
 %%
 %%% >>> Bibliography
 %%
-\bibliography{Myrefs}%
+\bibliography{Tex/Myrefs}%
 \intotoc{参考文献}% add a corresponding item to the contents table and bookmark
 %%
 %%% >>> Publications
 %%
-\input{Pub}
+\input{Tex/Pub}
 %%
 %%% >>> Resume
 %%
-\input{Resume}
+\input{Tex/Resume}
 %%
 %%% >>> Acknowledgements
 %%
-\input{Thanks}
+\input{Tex/Thanks}
 %%
 \end{document}
 %%%%% --------------------------------------------------------------------------------

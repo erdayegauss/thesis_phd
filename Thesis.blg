@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Thesis.aux
+The style file: unsrtnat.bst
+Database file #1: Tex/Myrefs.bib
+Warning--I didn't find a database entry for "82"
+Warning--I didn't find a database entry for "83"
+Warning--I didn't find a database entry for "84"
+Warning--empty journal in ditmire1997high
+You've used 63 entries,
+            2481 wiz_defined-function locations,
+            916 strings with 17122 characters,
+and the built_in function-call counts, 29479 in all, are:
+= -- 2034
+> -- 2407
+< -- 20
++ -- 870
+- -- 744
+* -- 2842
+:= -- 5079
+add.period$ -- 189
+call.type$ -- 63
+change.case$ -- 124
+chr.to.int$ -- 63
+cite$ -- 64
+duplicate$ -- 1196
+empty$ -- 2309
+format.name$ -- 830
+if$ -- 5911
+int.to.chr$ -- 1
+int.to.str$ -- 64
+missing$ -- 65
+newline$ -- 323
+num.names$ -- 189
+pop$ -- 454
+preamble$ -- 1
+purify$ -- 63
+quote$ -- 0
+skip$ -- 661
+stack$ -- 0
+substring$ -- 1314
+swap$ -- 126
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 435
+warning$ -- 1
+while$ -- 213
+width$ -- 0
+write$ -- 823
+(There were 4 warnings)
