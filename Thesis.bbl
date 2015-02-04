@@ -1,4 +1,4 @@
-\begin{thebibliography}{63}
+\begin{thebibliography}{66}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -459,5 +459,28 @@ D~Batani, R~Jafer, Mina Veltcheva, R~Dezulian, Olle Lundh, Filip Lindau, Anders
 \newblock Effects of laser prepulses on laser-induced proton generation.
 \newblock \emph{New Journal of Physics}, 12\penalty0 (4):\penalty0 045018,
   2010.
+
+\bibitem[Wang et~al.(2011)Wang, Lin, Sheng, Liu, Zhao, Guo, Lu, He, Chen, and
+  Yan]{wang2011laser}
+HY~Wang, C~Lin, ZM~Sheng, B~Liu, S~Zhao, ZY~Guo, YR~Lu, XT~He, JE~Chen, and
+  XQ~Yan.
+\newblock Laser shaping of a relativistic intense, short gaussian pulse by a
+  plasma lens.
+\newblock \emph{Physical review letters}, 107\penalty0 (26):\penalty0 265002,
+  2011.
+
+\bibitem[Pukhov and Meyer-ter Vehn(1998)]{pukhov1998relativistic}
+A~Pukhov and J~Meyer-ter Vehn.
+\newblock Relativistic laser-plasma interaction by multi-dimensional
+  particle-in-cell simulations.
+\newblock \emph{Physics of Plasmas (1994-present)}, 5\penalty0 (5):\penalty0
+  1880--1886, 1998.
+
+\bibitem[Pukhov et~al.(1999)Pukhov, Sheng, and Meyer-ter
+  Vehn]{pukhov1999particle}
+A~Pukhov, Z-M Sheng, and J~Meyer-ter Vehn.
+\newblock Particle acceleration in relativistic laser channels.
+\newblock \emph{Physics of Plasmas (1994-present)}, 6\penalty0 (7):\penalty0
+  2847--2854, 1999.
 
 \end{thebibliography}

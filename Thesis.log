@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.5.18)  2 FEB 2015 17:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.5.18)  4 FEB 2015 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -995,6 +995,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 
 LaTeX Warning: Label `eqn:electronBoltz' multiply defined.
 
+
+LaTeX Warning: Label `fig:prepulse2012' multiply defined.
+
 )
 \openout1 = `Thesis.aux'.
 
@@ -1293,31 +1296,30 @@ n/12.05/54 �$\OT1/cmr/m/n/12.05 0\OML/cmm/m/it/12.05 :\OT1/cmr/m/n/12.05 75\OML
 LaTeX Warning: Reference `eqn:shockEquation1,eqn:shockEquation2,eqn:shockEquati
 on3' on page 19 undefined on input line 83.
 
-[19] [20])) (./Tex/Appendix.tex [21] [22
+[19] [20] [21]) (./Tex/Chap_preplasmaEhancement.tex [22]
+第三章
+File: Img/enhancement.eps Graphic file (type eps)
+<Img/enhancement.eps>
+File: Img/selffocussing.eps Graphic file (type eps)
+ <Img/selffocussing.eps>
+File: Img/prof-steepening.eps Graphic file (type eps)
+ <Img/prof-steepening.eps>
+[23
 
-]
+] [24]
+File: Img/IFEL.eps Graphic file (type eps)
+ <Img/IFEL.eps> [25])) (./Tex/Appendix.tex [26]
 附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces A
-[23] [24]) [25] [26
+[27
 
-] (./Thesis.bbl [27
+] [28]) [29] [30
 
-] [28] [29] [30] [31] [32] [33])
-(./Tex/Pub.tex [34]) (./Tex/Resume.tex [35
+] (./Thesis.bbl [31
 
-] [36
+] [32] [33] [34] [35] [36] [37])
+(./Tex/Pub.tex [38]) (./Tex/Resume.tex [39
 
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 12.05pt
-(hyperref)                replaced by space on input line 2.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                \hskip 12.05pt
-(hyperref)                replaced by space on input line 2.
-
-) (./Tex/Thanks.tex [37] [38
+] [40
 
 ]
 
@@ -1330,7 +1332,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \hskip 12.05pt
 (hyperref)                replaced by space on input line 2.
 
-) [39]
+) (./Tex/Thanks.tex [41] [42
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 12.05pt
+(hyperref)                replaced by space on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                \hskip 12.05pt
+(hyperref)                replaced by space on input line 2.
+
+) [43]
 
 Package natbib Warning: There were undefined citations.
 
@@ -1340,7 +1355,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 100.
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1E77C23237ABABCDC33AC695AE2A5247;3863.
+(rerunfilecheck)             Checksum: B6CC0EA12CC2C63AE6C344BD4E2A87F4;4146.
 
 
 LaTeX Warning: There were undefined references.
@@ -1350,12 +1365,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 22226 strings out of 493309
- 358313 string characters out of 6137848
- 381159 words of memory out of 5000000
- 25157 multiletter control sequences out of 15000+600000
- 91199 words of font info for 337 fonts, out of 8000000 for 9000
+ 22323 strings out of 493309
+ 359997 string characters out of 6137848
+ 381980 words of memory out of 5000000
+ 25247 multiletter control sequences out of 15000+600000
+ 93899 words of font info for 347 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,11n,51p,10512b,2035s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,11n,51p,10512b,2063s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (53 pages, 197504 bytes).
+Output written on Thesis.dvi (57 pages, 216552 bytes).
