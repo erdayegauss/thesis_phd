@@ -1,4 +1,4 @@
-\begin{thebibliography}{66}
+\begin{thebibliography}{70}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -482,5 +482,32 @@ A~Pukhov, Z-M Sheng, and J~Meyer-ter Vehn.
 \newblock Particle acceleration in relativistic laser channels.
 \newblock \emph{Physics of Plasmas (1994-present)}, 6\penalty0 (7):\penalty0
   2847--2854, 1999.
+
+\bibitem[Tabak et~al.(1994)Tabak, Hammer, Glinsky, Kruer, Wilks, Woodworth,
+  Campbell, Perry, and Mason]{tabak1994ignition}
+Max Tabak, James Hammer, Michael~E Glinsky, William~L Kruer, Scott~C Wilks,
+  John Woodworth, E~Michael Campbell, Michael~D Perry, and Rodney~J Mason.
+\newblock Ignition and high gain with ultrapowerful lasers*.
+\newblock \emph{Physics of Plasmas (1994-present)}, 1\penalty0 (5):\penalty0
+  1626--1634, 1994.
+
+\bibitem[Weibel(1959)]{weibel1959spontaneously}
+Erich~S Weibel.
+\newblock Spontaneously growing transverse waves in a plasma due to an
+  anisotropic velocity distribution.
+\newblock \emph{Physical Review Letters}, 2\penalty0 (3):\penalty0 83, 1959.
+
+\bibitem[Bret et~al.(2005)Bret, Firpo, and Deutsch]{bret2005characterization}
+A~Bret, M-C Firpo, and C~Deutsch.
+\newblock Characterization of the initial filamentation of a relativistic
+  electron beam passing through a plasma.
+\newblock \emph{Physical review letters}, 94\penalty0 (11):\penalty0 115002,
+  2005.
+
+\bibitem[Bret et~al.(2004)Bret, Firpo, and Deutsch]{bret2004collective}
+Antoine Bret, M-C Firpo, and Claude Deutsch.
+\newblock Collective electromagnetic modes for beam-plasma interaction in the
+  whole k space.
+\newblock \emph{Physical Review E}, 70\penalty0 (4):\penalty0 046401, 2004.
 
 \end{thebibliography}

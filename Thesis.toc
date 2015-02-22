@@ -22,18 +22,24 @@
 \contentsline {section}{\numberline {1.5}论文安排}{15}{section.1.5}
 \contentsline {chapter}{\numberline {第二章\hspace {0.3em}}使用简介}{17}{chapter.2}
 \contentsline {section}{\numberline {2.1}预脉冲与预等离子体}{17}{section.2.1}
-\contentsline {section}{\numberline {2.2}预等离子体的计算}{19}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}铝靶烧蚀}{21}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}碳纳米管及铝靶}{22}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}结论}{22}{subsection.2.2.3}
-\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}预等离子体对于加速的增强作用}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}预脉冲与预等离子体}{23}{section.3.1}
-\contentsline {chapter}{\numberline {附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces A\hspace {0.3em}}中国科学院大学学位论文撰写要求}{27}{appendix.A}
-\contentsline {section}{\numberline {A.1}学位论文的一般要求}{27}{section.A.1}
-\contentsline {section}{\numberline {A.2}学位论文的水平要求}{27}{section.A.2}
-\contentsline {section}{\numberline {A.3}撰写学位论文的语言及文字}{27}{section.A.3}
-\contentsline {section}{\numberline {A.4}学位论文的主要组成部分}{28}{section.A.4}
-\contentsline {chapter}{参考文献}{38}{section*.17}
-\contentsline {chapter}{发表文章目录}{39}{appendix*.18}
-\contentsline {chapter}{简\CTEX@spaceChar \CTEX@spaceChar 历}{41}{appendix*.19}
-\contentsline {chapter}{致\CTEX@spaceChar \CTEX@spaceChar 谢}{43}{appendix*.20}
+\contentsline {section}{\numberline {2.2}预等离子体的数值计算}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}流体力学过程}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}激光的吸收}{20}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}能量传输}{21}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}铝靶烧蚀}{22}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}DLC烧蚀}{23}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}结论}{23}{subsection.2.2.6}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}预等离子体对于加速的增强作用}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}预脉冲与预等离子体}{25}{section.3.1}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}不稳定性在激光离子加速中的应用}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}常见不稳定性}{37}{section.4.1}
+\contentsline {section}{\numberline {4.2}高能电子束流在有限厚度靶中的成丝现象}{39}{section.4.2}
+\contentsline {chapter}{\numberline {附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces A\hspace {0.3em}}中国科学院大学学位论文撰写要求}{43}{appendix.A}
+\contentsline {section}{\numberline {A.1}学位论文的一般要求}{43}{section.A.1}
+\contentsline {section}{\numberline {A.2}学位论文的水平要求}{43}{section.A.2}
+\contentsline {section}{\numberline {A.3}撰写学位论文的语言及文字}{43}{section.A.3}
+\contentsline {section}{\numberline {A.4}学位论文的主要组成部分}{44}{section.A.4}
+\contentsline {chapter}{参考文献}{55}{section*.24}
+\contentsline {chapter}{发表文章目录}{57}{appendix*.25}
+\contentsline {chapter}{简\CTEX@spaceChar \CTEX@spaceChar 历}{59}{appendix*.26}
+\contentsline {chapter}{致\CTEX@spaceChar \CTEX@spaceChar 谢}{61}{appendix*.27}

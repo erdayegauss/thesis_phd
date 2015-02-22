@@ -3,49 +3,53 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Thesis.aux
 The style file: unsrtnat.bst
 Database file #1: Tex/Myrefs.bib
+Repeated entry---line 876 of file Tex/Myrefs.bib
+ : @article{yan2008generating
+ :                           ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "82"
 Warning--I didn't find a database entry for "83"
 Warning--I didn't find a database entry for "84"
 Warning--empty journal in ditmire1997high
-You've used 66 entries,
+You've used 70 entries,
             2481 wiz_defined-function locations,
-            932 strings with 17623 characters,
-and the built_in function-call counts, 30891 in all, are:
-= -- 2142
-> -- 2506
-< -- 21
-+ -- 906
-- -- 774
-* -- 2977
-:= -- 5312
-add.period$ -- 198
-call.type$ -- 66
-change.case$ -- 130
-chr.to.int$ -- 66
-cite$ -- 67
-duplicate$ -- 1253
-empty$ -- 2426
-format.name$ -- 865
-if$ -- 6199
+            948 strings with 18331 characters,
+and the built_in function-call counts, 32550 in all, are:
+= -- 2267
+> -- 2612
+< -- 22
++ -- 946
+- -- 806
+* -- 3129
+:= -- 5588
+add.period$ -- 210
+call.type$ -- 70
+change.case$ -- 138
+chr.to.int$ -- 70
+cite$ -- 71
+duplicate$ -- 1329
+empty$ -- 2573
+format.name$ -- 901
+if$ -- 6540
 int.to.chr$ -- 1
-int.to.str$ -- 67
-missing$ -- 68
-newline$ -- 338
-num.names$ -- 198
-pop$ -- 475
+int.to.str$ -- 71
+missing$ -- 72
+newline$ -- 358
+num.names$ -- 210
+pop$ -- 503
 preamble$ -- 1
-purify$ -- 66
+purify$ -- 70
 quote$ -- 0
-skip$ -- 693
+skip$ -- 734
 stack$ -- 0
-substring$ -- 1400
-swap$ -- 132
+substring$ -- 1481
+swap$ -- 140
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 456
+type$ -- 484
 warning$ -- 1
-while$ -- 224
+while$ -- 237
 width$ -- 0
-write$ -- 862
-(There were 4 warnings)
+write$ -- 914
+(There was 1 error message)
