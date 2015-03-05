@@ -1,4 +1,4 @@
-\begin{thebibliography}{70}
+\begin{thebibliography}{77}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -509,5 +509,51 @@ Antoine Bret, M-C Firpo, and Claude Deutsch.
 \newblock Collective electromagnetic modes for beam-plasma interaction in the
   whole k space.
 \newblock \emph{Physical Review E}, 70\penalty0 (4):\penalty0 046401, 2004.
+
+\bibitem[Yee et~al.(1966)]{yee1966numerical}
+Kane~S Yee et~al.
+\newblock Numerical solution of initial boundary value problems involving
+  maxwell’s equations in isotropic media.
+\newblock \emph{IEEE Trans. Antennas Propag}, 14\penalty0 (3):\penalty0
+  302--307, 1966.
+
+\bibitem[Taflove(1980)]{taflove1980application}
+Allen Taflove.
+\newblock Application of the finite-difference time-domain method to sinusoidal
+  steady-state electromagnetic-penetration problems.
+\newblock \emph{Electromagnetic Compatibility, IEEE Transactions on}, \penalty0
+  (3):\penalty0 191--202, 1980.
+
+\bibitem[Boris(1970)]{boris1970relativistic}
+JP~Boris.
+\newblock Relativistic plasma simulation-optimization of a hybrid code.
+\newblock In \emph{Proc. Fourth Conf. Num. Sim. Plasmas, Naval Res. Lab, Wash.
+  DC}, pages 3--67, 1970.
+
+\bibitem[Hockney and Eastwood(1988)]{hockney1988computer}
+Roger~W Hockney and James~W Eastwood.
+\newblock \emph{Computer simulation using particles}.
+\newblock CRC Press, 1988.
+
+\bibitem[Villasenor and Buneman(1992)]{villasenor1992rigorous}
+John Villasenor and Oscar Buneman.
+\newblock Rigorous charge conservation for local electromagnetic field solvers.
+\newblock \emph{Computer Physics Communications}, 69\penalty0 (2):\penalty0
+  306--316, 1992.
+
+\bibitem[Esirkepov(2001)]{esirkepov2001exact}
+T~Zh Esirkepov.
+\newblock Exact charge conservation scheme for particle-in-cell simulation with
+  an arbitrary form-factor.
+\newblock \emph{Computer Physics Communications}, 135\penalty0 (2):\penalty0
+  144--153, 2001.
+
+\bibitem[Sentoku and Kemp(2008)]{sentoku2008numerical}
+Yasuhiko Sentoku and Andreas~J Kemp.
+\newblock Numerical methods for particle simulations at extreme densities and
+  temperatures: Weighted particles, relativistic collisions and reduced
+  currents.
+\newblock \emph{Journal of Computational Physics}, 227\penalty0 (14):\penalty0
+  6846--6861, 2008.
 
 \end{thebibliography}
