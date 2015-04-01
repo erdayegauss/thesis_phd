@@ -12,45 +12,45 @@ Warning--I didn't find a database entry for "83"
 Warning--I didn't find a database entry for "84"
 Warning--empty journal in ditmire1997high
 Warning--there's a number but no volume in taflove1980application
-You've used 77 entries,
+You've used 83 entries,
             2481 wiz_defined-function locations,
-            986 strings with 19542 characters,
-and the built_in function-call counts, 35143 in all, are:
-= -- 2508
-> -- 2693
-< -- 30
-+ -- 982
-- -- 828
-* -- 3309
-:= -- 5975
-add.period$ -- 231
-call.type$ -- 77
-change.case$ -- 151
-chr.to.int$ -- 77
-cite$ -- 79
-duplicate$ -- 1470
-empty$ -- 2841
-format.name$ -- 937
-if$ -- 7105
-int.to.chr$ -- 1
-int.to.str$ -- 78
-missing$ -- 80
-newline$ -- 393
-num.names$ -- 231
-pop$ -- 563
+            1016 strings with 20639 characters,
+and the built_in function-call counts, 37799 in all, are:
+= -- 2694
+> -- 2897
+< -- 31
++ -- 1057
+- -- 890
+* -- 3569
+:= -- 6427
+add.period$ -- 249
+call.type$ -- 83
+change.case$ -- 163
+chr.to.int$ -- 82
+cite$ -- 85
+duplicate$ -- 1584
+empty$ -- 3058
+format.name$ -- 1007
+if$ -- 7643
+int.to.chr$ -- 2
+int.to.str$ -- 84
+missing$ -- 86
+newline$ -- 423
+num.names$ -- 249
+pop$ -- 605
 preamble$ -- 1
-purify$ -- 77
+purify$ -- 83
 quote$ -- 0
-skip$ -- 819
+skip$ -- 878
 stack$ -- 0
-substring$ -- 1645
-swap$ -- 160
+substring$ -- 1754
+swap$ -- 174
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 530
+type$ -- 572
 warning$ -- 2
-while$ -- 264
+while$ -- 283
 width$ -- 0
-write$ -- 1004
+write$ -- 1082
 (There was 1 error message)

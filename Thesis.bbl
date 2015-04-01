@@ -1,4 +1,4 @@
-\begin{thebibliography}{77}
+\begin{thebibliography}{83}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -460,14 +460,21 @@ D~Batani, R~Jafer, Mina Veltcheva, R~Dezulian, Olle Lundh, Filip Lindau, Anders
 \newblock \emph{New Journal of Physics}, 12\penalty0 (4):\penalty0 045018,
   2010.
 
-\bibitem[Wang et~al.(2011)Wang, Lin, Sheng, Liu, Zhao, Guo, Lu, He, Chen, and
-  Yan]{wang2011laser}
+\bibitem[Pukhov and Meyer-ter Vehn(1996)]{pukhov1996relativistic}
+A~Pukhov and J~Meyer-ter Vehn.
+\newblock Relativistic magnetic self-channeling of light in near-critical
+  plasma: three-dimensional particle-in-cell simulation.
+\newblock \emph{Physical review letters}, 76\penalty0 (21):\penalty0 3975,
+  1996.
+
+\bibitem[Wang et~al.(2011{\natexlab{a}})Wang, Lin, Sheng, Liu, Zhao, Guo, Lu,
+  He, Chen, and Yan]{wang2011laser}
 HY~Wang, C~Lin, ZM~Sheng, B~Liu, S~Zhao, ZY~Guo, YR~Lu, XT~He, JE~Chen, and
   XQ~Yan.
 \newblock Laser shaping of a relativistic intense, short gaussian pulse by a
   plasma lens.
 \newblock \emph{Physical review letters}, 107\penalty0 (26):\penalty0 265002,
-  2011.
+  2011{\natexlab{a}}.
 
 \bibitem[Pukhov and Meyer-ter Vehn(1998)]{pukhov1998relativistic}
 A~Pukhov and J~Meyer-ter Vehn.
@@ -482,6 +489,44 @@ A~Pukhov, Z-M Sheng, and J~Meyer-ter Vehn.
 \newblock Particle acceleration in relativistic laser channels.
 \newblock \emph{Physics of Plasmas (1994-present)}, 6\penalty0 (7):\penalty0
   2847--2854, 1999.
+
+\bibitem[Gahn et~al.(1999)Gahn, Tsakiris, Pukhov, Meyer-ter Vehn, Pretzler,
+  Thirolf, Habs, and Witte]{gahn1999multi}
+C~Gahn, GD~Tsakiris, A~Pukhov, J~Meyer-ter Vehn, G~Pretzler, P~Thirolf, D~Habs,
+  and KJ~Witte.
+\newblock Multi-mev electron beam generation by direct laser acceleration in
+  high-density plasma channels.
+\newblock \emph{Physical Review Letters}, 83\penalty0 (23):\penalty0 4772,
+  1999.
+
+\bibitem[Wang et~al.(2011{\natexlab{b}})Wang, Lin, Zheng, Lu, Guo, He, Chen,
+  and Yan]{wang2011high}
+HY~Wang, C~Lin, FL~Zheng, YR~Lu, ZY~Guo, XT~He, JE~Chen, and XQ~Yan.
+\newblock High-quality proton bunch from laser interaction with a gas-filled
+  cone target.
+\newblock \emph{Physics of Plasmas (1994-present)}, 18\penalty0 (9):\penalty0
+  093105, 2011{\natexlab{b}}.
+
+\bibitem[Sgattoni et~al.(2012)Sgattoni, Londrillo, Macchi, and
+  Passoni]{sgattoni2012laser}
+Andrea Sgattoni, Pasquale Londrillo, Andrea Macchi, and Matteo Passoni.
+\newblock Laser ion acceleration using a solid target coupled with a
+  low-density layer.
+\newblock \emph{Physical Review E}, 85\penalty0 (3):\penalty0 036405, 2012.
+
+\bibitem[Glinec et~al.(2008)Glinec, Genoud, Lundh, Persson, and
+  Wahlstr{\"o}m]{glinec2008evolution}
+Yannick Glinec, Guillaume Genoud, Olle Lundh, Anders Persson, and C-G
+  Wahlstr{\"o}m.
+\newblock Evolution of energy spectrum from laser-accelerated protons with a
+  100 fs intense prepulse.
+\newblock \emph{Applied Physics B}, 93\penalty0 (2-3):\penalty0 317--321, 2008.
+
+\bibitem[Wilks et~al.(1992)Wilks, Kruer, Tabak, and
+  Langdon]{wilks1992absorption}
+SC~Wilks, WL~Kruer, M~Tabak, and AB~Langdon.
+\newblock Absorption of ultra-intense laser pulses.
+\newblock \emph{Physical review letters}, 69\penalty0 (9):\penalty0 1383, 1992.
 
 \bibitem[Tabak et~al.(1994)Tabak, Hammer, Glinsky, Kruer, Wilks, Woodworth,
   Campbell, Perry, and Mason]{tabak1994ignition}

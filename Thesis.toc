@@ -30,27 +30,27 @@
 \contentsline {subsection}{\numberline {2.2.5}DLC烧蚀}{23}{subsection.2.2.5}
 \contentsline {subsection}{\numberline {2.2.6}结论}{23}{subsection.2.2.6}
 \contentsline {chapter}{\numberline {第三章\hspace {0.3em}}预等离子体对于加速的增强作用}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}}{25}{section.3.1}
-\contentsline {section}{\numberline {3.2}预脉冲与预等离子体}{25}{section.3.2}
-\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}不稳定性在激光离子加速中的应用}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}常见不稳定性}{37}{section.4.1}
-\contentsline {section}{\numberline {4.2}高能电子束流在有限厚度靶中的成丝现象}{39}{section.4.2}
-\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}Pariticle-In-Cell}{43}{chapter.5}
-\contentsline {section}{\numberline {5.1}等离子体数值模拟}{43}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}流体力学模拟}{44}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}动力学模拟}{44}{subsection.5.1.2}
-\contentsline {section}{\numberline {5.2}粒子模拟}{45}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}宏粒子及粒子云模型}{46}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}电磁场求解}{49}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}粒子运动的求解}{52}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}电流密度计算}{53}{subsection.5.2.4}
-\contentsline {section}{\numberline {5.3}结论}{54}{section.5.3}
-\contentsline {chapter}{\numberline {附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces A\hspace {0.3em}}中国科学院大学学位论文撰写要求}{55}{appendix.A}
-\contentsline {section}{\numberline {A.1}学位论文的一般要求}{55}{section.A.1}
-\contentsline {section}{\numberline {A.2}学位论文的水平要求}{55}{section.A.2}
-\contentsline {section}{\numberline {A.3}撰写学位论文的语言及文字}{55}{section.A.3}
-\contentsline {section}{\numberline {A.4}学位论文的主要组成部分}{56}{section.A.4}
-\contentsline {chapter}{参考文献}{67}{section*.29}
-\contentsline {chapter}{发表文章目录}{69}{appendix*.30}
-\contentsline {chapter}{简\CTEX@spaceChar \CTEX@spaceChar 历}{71}{appendix*.31}
-\contentsline {chapter}{致\CTEX@spaceChar \CTEX@spaceChar 谢}{73}{appendix*.32}
+\contentsline {section}{\numberline {3.1}引言}{25}{section.3.1}
+\contentsline {section}{\numberline {3.2}预等离子体增强离子加速}{28}{section.3.2}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}不稳定性在激光离子加速中的应用}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}常见不稳定性}{41}{section.4.1}
+\contentsline {section}{\numberline {4.2}高能电子束流在有限厚度靶中的成丝现象}{43}{section.4.2}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}Pariticle-In-Cell}{47}{chapter.5}
+\contentsline {section}{\numberline {5.1}等离子体数值模拟}{47}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}流体力学模拟}{48}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}动力学模拟}{48}{subsection.5.1.2}
+\contentsline {section}{\numberline {5.2}粒子模拟}{49}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}宏粒子及粒子云模型}{50}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}电磁场求解}{53}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}粒子运动的求解}{56}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}电流密度计算}{57}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}结论}{58}{section.5.3}
+\contentsline {chapter}{\numberline {附录\hspace {0.25em plus 0.125em minus 0.08em}\ignorespaces A\hspace {0.3em}}中国科学院大学学位论文撰写要求}{59}{appendix.A}
+\contentsline {section}{\numberline {A.1}学位论文的一般要求}{59}{section.A.1}
+\contentsline {section}{\numberline {A.2}学位论文的水平要求}{59}{section.A.2}
+\contentsline {section}{\numberline {A.3}撰写学位论文的语言及文字}{59}{section.A.3}
+\contentsline {section}{\numberline {A.4}学位论文的主要组成部分}{60}{section.A.4}
+\contentsline {chapter}{参考文献}{72}{section*.29}
+\contentsline {chapter}{发表文章目录}{73}{appendix*.30}
+\contentsline {chapter}{简\CTEX@spaceChar \CTEX@spaceChar 历}{75}{appendix*.31}
+\contentsline {chapter}{致\CTEX@spaceChar \CTEX@spaceChar 谢}{77}{appendix*.32}
