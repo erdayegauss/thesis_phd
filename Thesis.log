@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.5.18)  1 APR 2015 22:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.5.18)  4 MAY 2015 01:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1287,8 +1287,8 @@ File: Img/PSA2.eps Graphic file (type eps)
 ]
 ç¬¬äºŒç« 
 File: Img/prepulse2012.eps Graphic file (type eps)
-<Img/prepulse2012.eps> [17]
-Overfull \hbox (65.23369pt too wide) in paragraph at lines 62--66
+<Img/prepulse2012.eps> [17] [18]
+Overfull \hbox (65.23369pt too wide) in paragraph at lines 57--61
 \C70/rm/m/n/12.05/65 p|\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/n/12.05/5b ù \C70/rm
 /m/n/12.05/4e Ž \C70/rm/m/n/12.05/6c â \C70/rm/m/n/12.05/95 ^^? \C70/rm/m/n/12.
 05/4e :\OT1/cmr/m/n/12.05 0.8um\C70/rm/m/n/12.05/76 „ \C70/rm/m/n/12.05/6f À \C
@@ -1300,10 +1300,9 @@ n/12.05/54 Œ$\OT1/cmr/m/n/12.05 0\OML/cmm/m/it/12.05 :\OT1/cmr/m/n/12.05 75\OML
 /cmm/m/it/12.05 J[]s[]m[]$$[]$|\C70/rm/m/n/12.05/30 ^^B|
  []
 
-[18]
 
 LaTeX Warning: Reference `eqn:shockEquation1,eqn:shockEquation2,eqn:shockEquati
-on3' on page 19 undefined on input line 82.
+on3' on page 19 undefined on input line 77.
 
 [19] [20] [21] [22]) (./Tex/Chap_preplasmaEhancement.tex [23] [24
 
@@ -1443,12 +1442,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 22772 strings out of 493309
- 367485 string characters out of 6137848
+ 22754 strings out of 493309
+ 367248 string characters out of 6137848
  406914 words of memory out of 5000000
- 25675 multiletter control sequences out of 15000+600000
+ 25657 multiletter control sequences out of 15000+600000
  110099 words of font info for 407 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,11n,51p,10512b,2225s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 49i,11n,51p,10512b,2215s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Thesis.dvi (93 pages, 366112 bytes).
+Output written on Thesis.dvi (93 pages, 366228 bytes).
